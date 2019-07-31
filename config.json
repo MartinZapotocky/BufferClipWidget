@@ -1,0 +1,15 @@
+{
+	"configText":"Toto je text z config.json",
+	"vchuVrstva":"https://portal.esprit-bs.sk/server/rest/services/MartinZ/chvuLayer/MapServer/0",
+	"testVrstva":"",
+	"zoznam": [
+			{
+			"name": "Environmentálne záťaže",
+			"value": "https://nipi.sazp.sk/ArcGIS/rest/services/env_zataze/environmentalna_zataz/MapServer/1"
+			},
+			{
+			"name": "Chránené stromy",
+			"value": "https://portal.esprit-bs.sk/server/rest/services/MartinZ/testLayer/MapServer/0"
+			}
+	]
+}
